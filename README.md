@@ -1,15 +1,18 @@
 ### Hi there! 
 
-I am Xioto. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+I am Xioto. <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Xioto_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Xioto_)](https://twitter.com/Xioto_) 
 
-## ⚡ Technologies
-
+## ⚡ Technologies & Capabilities
+* Basic Knowledge of HTML and CSS
+* Interested in Network Shares
+* Big fan of pretty much anything to do with Minecrat Servers!
+* Avid Pyromaniac
 
 ## Other Info
 - 🔭 I’m currently working on nothing in particular...
-- 💬 Ask me about pretty much anything to do with Minecraft Servers!
+- 💬 Ask me about nothing, you can find a better answer on Google.
 - 📫 How to reach me: [Twitter](https://twitter.com/Xioto_)
 - 😄 Pronouns: He/Him <br>
 
