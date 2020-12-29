@@ -4,6 +4,8 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 
 [![Twitter Badge](https://img.shields.io/badge/-@Xioto_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Xioto_)](https://twitter.com/Xioto_) 
 
+[![Github Badge](https://img.shields.io/badge/-@Xioto_-black?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/Xioto)](https://github.com/Xioto)
+
 ## ⚡ Technologies & Capabilities
 * Basic Knowledge of HTML and CSS
 * Interested in Network Shares
