@@ -14,7 +14,7 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 - 🔭 I’m currently working on nothing in particular...
 - 💬 Ask me about nothing, you can find a better answer on Google.
 - 📫 How to reach me: Reddit, or maybe Twitter.
-- 😄 Pronouns: He/Him <br />
-
+- 😄 Pronouns: He/Him  
+  
 [![Xioto's github stats](https://github-readme-stats.vercel.app/api?username=Xioto)](https://github-readme-stats.vercel.app/api?username=Xioto)
 
