@@ -11,9 +11,8 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 * Avid Pyromaniac
 
 <!-- Nothing weird to see here -->
-<p align="center">
+<p align="right">
   <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
     <img src="https://andyruwruw.vercel.app/api/now-playing">
   </a>
 </p>
