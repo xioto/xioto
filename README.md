@@ -10,7 +10,7 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 * Big fan of pretty much anything to do with Minecraft Servers!
 * Avid Pyromaniac
                                                 
-## Other Info             [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Xioto&repo=xioto)](https://github.com/Xioto/xioto)
+## Other Info      
 - 🔭 I’m currently working on nothing in particular...
 - 💬 Ask me about nothing, you can find a better answer on Google.
 - 📫 How to reach me: Reddit, or maybe Twitter.
