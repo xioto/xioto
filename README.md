@@ -18,5 +18,5 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 
 
 
-[![Xioto's github stats](https://github-readme-stats.vercel.app/api?username=Xioto)](https://github-readme-stats.vercel.app/api?username=Xioto)
+[![Xioto's github stats](https://github-readme-stats.vercel.app/api?username=Xioto&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Xioto)
 
