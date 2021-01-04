@@ -10,13 +10,6 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 * Big fan of pretty much anything to do with Minecraft Servers!
 * Avid Pyromaniac
 
-<!-- Nothing weird to see here -->
-<p align="right">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
-</p>
-
 ## Other Info
 - 🔭 I’m currently working on nothing in particular...
 - 💬 Ask me about nothing, you can find a better answer on Google.
