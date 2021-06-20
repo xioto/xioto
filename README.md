@@ -2,7 +2,8 @@
 
 I am Xioto. I am pretty new to Github and Programming in General, though I have been interested and fascinated by technology for ages!<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Xioto_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Xioto_)](https://twitter.com/Xioto_) &nbsp;&nbsp; [![Github Badge](https://img.shields.io/badge/-Xioto-black?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/Xioto)](https://github.com/Xioto) &nbsp;&nbsp; [![Reddit Badge](https://img.shields.io/badge/-Xioto_-red?style=flat-square&labelColor=red&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Xioto_)](https://www.reddit.com/user/Xioto_) &nbsp;&nbsp; ![xioto](https://komarev.com/ghpvc/?username=xioto&label=Profile%20views&color=0e75b6&style=flat)
+[![Twitter Badge](https://img.shields.io/badge/-@Xioto_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Xioto_)](https://twitter.com/Xioto_) &nbsp;&nbsp; [![Github Badge](https://img.shields.io/badge/-Xioto-black?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/Xioto)](https://github.com/Xioto) &nbsp;&nbsp; [![Reddit Badge](https://img.shields.io/badge/-Xioto_-red?style=flat-square&labelColor=red&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Xioto_)](https://www.reddit.com/user/Xioto_) &nbsp;&nbsp; ![xioto](https://komarev.com/ghpvc/?username=xioto&label=Profile%20views&color=0e75b6&style=flat)![Counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/yuk7?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
 
 ## ⚡ Technologies & Capabilities
 * Basic Knowledge of HTML and CSS
@@ -16,20 +17,9 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 - 📫 How to reach me: Reddit, or maybe Twitter.
 - 😄 Pronouns: He/Him
 
-
-
-<!--[![Xioto's github stats](https://github-readme-stats.vercel.app/api?username=Xioto&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Xioto)
-![xioto](https://github-readme-stats.vercel.app/api/top-langs?username=xioto&show_icons=true&locale=en&layout=compact)-->
-
-![Counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/yuk7?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xioto" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xioto" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xioto" />
 </a>
-
-
