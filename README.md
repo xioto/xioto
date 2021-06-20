@@ -18,6 +18,18 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 
 
 
-[![Xioto's github stats](https://github-readme-stats.vercel.app/api?username=Xioto&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Xioto)
-![xioto](https://github-readme-stats.vercel.app/api/top-langs?username=xioto&show_icons=true&locale=en&layout=compact)
+<!--[![Xioto's github stats](https://github-readme-stats.vercel.app/api?username=Xioto&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Xioto)
+![xioto](https://github-readme-stats.vercel.app/api/top-langs?username=xioto&show_icons=true&locale=en&layout=compact)-->
+
+![Counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/yuk7?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xioto" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xioto" />
+</a>
+
 
