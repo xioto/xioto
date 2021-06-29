@@ -10,7 +10,6 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 ## ⚡ Technologies & Capabilities
 * Basic Knowledge of HTML and CSS
 * Interested in Network Shares
-* Big fan of pretty much anything to do with Minecraft Servers!
 * Avid Pyromaniac
                                                 
 ## Other Info      
