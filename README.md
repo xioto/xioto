@@ -18,9 +18,9 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 - 📫 How to reach me: Reddit, or maybe Twitter.
 - 😄 Pronouns: He/Him
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xioto" />
+<a href="https://github.com/xioto">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xioto&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xioto" />
+<a href="https://github.com/xioto">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xioto&theme=dark" />
 </a>
