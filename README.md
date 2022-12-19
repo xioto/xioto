@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am Xioto. I am pretty new to Github and Programming in General, though I have been interested and fascinated by technology for ages!<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+I am Euan, I mostly work in Python creating a variety of programs that will pose a challenge and help improve my coding knowledge<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Xioto_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Xioto_)](https://twitter.com/Xioto_) &nbsp;&nbsp; [![Github Badge](https://img.shields.io/badge/-Xioto-black?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/Xioto)](https://github.com/Xioto) &nbsp;&nbsp; [![Reddit Badge](https://img.shields.io/badge/-Xioto_-red?style=flat-square&labelColor=red&logo=reddit&logoColor=white&link=https://www.reddit.com/user/Xioto_)](https://www.reddit.com/user/Xioto_)
 &nbsp;&nbsp;  
@@ -10,12 +10,12 @@ I am Xioto. I am pretty new to Github and Programming in General, though I have 
 ## ⚡ Technologies & Capabilities
 * Basic Knowledge of HTML and CSS
 * Interested in Network Shares
-* Avid Pyromaniac
+* Avid Pyromaniac 
                                                 
 ## Other Info      
 - 🔭 I’m currently working on nothing in particular...
 - 💬 Ask me about nothing, you can find a better answer on Google.
-- 📫 How to reach me: Reddit, or maybe Twitter.
+- 📫 How to reach me: Reddit.
 - 😄 Pronouns: He/Him
 
 <a href="https://github.com/xioto">
