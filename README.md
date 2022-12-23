@@ -21,6 +21,6 @@ I am Euan, I mostly work in Python creating a variety of programs that will pose
 <a href="https://github.com/xioto">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Xioto&theme=dark" />
 </a>
-<a href="https://github.com/xioto">
+<<a href="https://github.com/xioto">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xioto&theme=dark" />
-</a>
+</a>>
